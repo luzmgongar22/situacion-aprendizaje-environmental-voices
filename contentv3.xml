@@ -182,13 +182,13 @@
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;strong&gt;Etapa educativa y nivel: &lt;/strong&gt;Educación de personas adultas-EOI nivel B2.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Áreas / Materias: &lt;/strong&gt;Inglés como lengua extranjera y competencia digital.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Agrupamientos y organización espacial: &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. &lt;/strong&gt;Individual: grabación de un podcast (tarea final)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. &lt;/strong&gt;En parejas o grupos de tres ( práctica oral y preparación de una infografía)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. &lt;/strong&gt;Individual: grabación de un pódcast (tarea final) utilizando la herramienta digital Vocaroo o sus propios móviles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. &lt;/strong&gt;En parejas o grupos de tres ( práctica oral y preparación de una infografía con algún elemento interactivo usando Canva o Genially.)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Trabajo individual&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Actividad: Grabación de un podcast.&lt;/p&gt;
+&lt;p&gt;Actividad: Grabación de un podcast utilizando Vocaroo.com/teléfono móvil.&lt;/p&gt;
 &lt;p&gt;Objetivo: Fomentar la autonomía del alumnado adulto y la responsabilidad individual en el aprendizaje.  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. Trabajo en parejas o grupos de tres&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Actividad: Diseño de una infografía y planificación y guionización del podcast.&lt;/p&gt;
+&lt;p&gt;Actividad: Diseño de una infografía con algún elemento interactivo utilizando Canva/Genially.&lt;/p&gt;
 &lt;p&gt;Objetivo: Favorecer el trabajo cooperativo, la interacción en lengua inglesa tanto de forma escrita como oral. La competencia digital mediante la creación de un producto visual. La negociación, el consenso y el respeto a distintas aportaciones.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Organización espacial&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Aula tradicional&lt;/strong&gt;&lt;/p&gt;
@@ -1169,7 +1169,7 @@
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Información general sobre este recurso educativo&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Título  &lt;/strong&gt;Act locally, think globally&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Título  &lt;/strong&gt;Environmental Voices&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Descripción  &lt;/strong&gt;Situación de Aprendizaje Inglés B2 EOI&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Autoría&lt;/strong&gt; Luz María González García&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Licencia&lt;/strong&gt;&lt;/p&gt;
@@ -1325,6 +1325,8 @@
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-download-package-instructions&quot;&gt;&lt;table class=&quot;exe-table&quot;&gt;&lt;caption&gt;Información general sobre este recurso educativo&lt;/caption&gt;
 &lt;tbody&gt;
@@ -1369,7 +1371,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="25"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1445,7 +1447,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="25"></reference>
+  <reference key="22"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
